@@ -7,6 +7,7 @@ object CallByNameAndCallByValue extends App
     println("Call by value: " + x)
     println("Call by value: " + x)
   }
+
   def callByName(x: => Long): Unit =
   {
     println("Call by name: " + x)
