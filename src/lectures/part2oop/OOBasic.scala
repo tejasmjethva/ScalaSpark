@@ -34,4 +34,4 @@ class Person(name: String, val age: Int) // constructor
 }
 
 //class parameters are not fields
-//to convert parameters ro fields add val or var for the parameter eg in case of age
+//to convert parameters to fields add val or var for the parameter eg in case of age
